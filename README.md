@@ -1,6 +1,6 @@
 # npmtest-preferences
 
-#### test coverage for  [preferences (v0.2.1)](https://github.com/CaffeinaLab/preferences#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-preferences.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-preferences) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-preferences.svg)](https://travis-ci.org/npmtest/node-npmtest-preferences)
+#### basic test coverage for  [preferences (v0.2.1)](https://github.com/CaffeinaLab/preferences#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-preferences.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-preferences) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-preferences.svg)](https://travis-ci.org/npmtest/node-npmtest-preferences)
 
 #### Manage CLI application encrypted preferences.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-preferences/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-preferences/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-preferences/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-preferences/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-preferences/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-preferences/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-preferences/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-preferences/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-preferences/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-preferences/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-preferences/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-preferences/build/coverage.html/index.html)
 
@@ -78,7 +78,8 @@
         "url": "git+https://github.com/CaffeinaLab/preferences.git"
     },
     "scripts": {},
-    "version": "0.2.1"
+    "version": "0.2.1",
+    "bin": {}
 }
 ```
 
